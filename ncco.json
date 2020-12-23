@@ -2,7 +2,7 @@
     {
         "action": "stream",
         "streamUrl": [
-            "https://nexmo-community.github.io/ncco-examples/assets/voice_api_audio_streaming.mp3"
+            "https://raw.githubusercontent.com/RijkH/Telefoontestmeuk/master/test-audiobericht%20(1).mp3"
         ]
     }
 ]
